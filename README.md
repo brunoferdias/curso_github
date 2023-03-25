@@ -1,3 +1,2 @@
 # Bem vindo ao curso gitHub
-
-TESTE
+DESCRICAO DO MEU README
